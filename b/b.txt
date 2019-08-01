@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 git is nb
+=======
+git is new
+git is new b
+>>>>>>> 48de7a918ac618db47f8860d39f403c411d3bd20
